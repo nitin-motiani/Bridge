@@ -1,0 +1,63 @@
+1st 
+Dummy : A Q 10
+Declarer : K J 7 6
+Plan : (6, A), (7, Q), (K, 10), (J, "Discard")
+
+2nd
+Dummy: A Q 10
+Declarer: K J 9 8 7 6
+Plan: (6, A), (7, Q), (K, 10), (J, "Discard"), (9, "Discard"), (8, "Discard")
+
+
+3rd
+Dummy: A Q 8
+Declarer: K J 9 7 6
+Plan: (6, A), (K, 8), (7, Q), (J, 10), (9, "Discard")
+
+
+4th
+Dummy: A K 3
+Declarer: Q J 10 9
+Plan: (9, A), (10, K), (Q, 3), (J, "Discard")
+
+
+5th 
+Dummy: A K Q J
+Declarer: 10 9 8 7 6
+Plan: (6, A), (7, K), (8, Q), (9, J)
+
+
+6th 
+Dummy: A K Q J 3
+Declarer: 10 9 8 7 6
+Plan: (6, A), (7, K), (8, Q), (9, J), (10, 3)
+
+
+7th 
+Dummy: 7 6 5
+Declarer: A K 8
+Plan: (A, 5), (K, 6)
+
+
+8th
+Dummy: J 10 9
+Declarer: A K Q
+Plan: (A, 9), (K, 10), (Q, J)
+
+
+9th
+Dummy: A 2
+Declarer: K Q J 5
+Plan: (5, A), (K, 2), (Q, "Discard"), (J, "Discard")
+
+
+10 
+Dummy: J 10 9 6 5
+Declarer: 4 3 2
+Plan: No plan found
+
+
+11
+Dummy: Q J 4 3
+Declarer: A K 2
+Plan: (A, 3), (K, 4), (2, Q), ("Discard", J)

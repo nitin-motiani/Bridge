@@ -1,0 +1,31 @@
+Dummy: 
+S:  A K Q J
+H:  8 5 4
+D: A K 3
+C: A 10 3
+
+Declarer: 
+S: 10 9 8 7 6
+H: 6 3
+D: Q J 10 9
+C: 5 2
+
+Plan:
+(2C, AC), (6S, AS), (7S, KS), (8S, QS), (9S, JS), (9D, AD), (10D, KD), (QD, 3D), (JD, 3C), (10S, 4H)
+
+
+
+Dummy: 
+S: 7 6 5
+H: J 10 9
+D: A 2
+C: J 10 9 6 5
+
+Declarer: 
+S: A K 8
+H: A K Q
+D: K Q J 5
+C: 4 3 2
+
+Plan:
+(AH, 9H), (KH, 10H), (QH, JH), (5D, AD), (KD, 2D), (QD, 5C), (JD, 5S), (AS, 6S), (KS, 7S)
